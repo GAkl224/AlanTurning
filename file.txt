@@ -1,0 +1,38 @@
+    Alan Turing, the father of modern computer science, is one of the most influential figures in the field of 
+computer science. Born in 1912 in London, England, Turing's groundbreaking work laid the foundation for modern
+computing and artificial intelligence. His contributions shaped the trajectory of computer science and also 
+played an important role in England's victory during World War two.
+
+    Turing's creation of the Turing machine, a theoretical device that formalized the concept of algorithmic
+computation, was a brilliant invention. This theoretical construct provided a framework for understanding 
+the limits and capabilities of computing machinery, laying the groundwork for the development of the modern
+computer. The Turing machine is considered the theoretical basis for all modern computers and forms the 
+cornerstone of theoretical computer science.
+
+    During World War II, Turing worked as a codebreaker at Bletchley Park, where he played a crucial role in 
+deciphering the German Enigma machine. His work on breaking the Enigma code shortened the war by having Allied 
+forces intercept and decrypt German communications, creating an important advantage. Not only did he revolutionize
+cryptography, but he played a major role in saving many lives. After the war, Turing . He designed the Automatic 
+Computing Engine, and proposed the concept of artificial intelligence through his seminal paper 
+"Computing Machinery and Intelligence," where he introduced the famous Turing Test to evaluate a machine's ability
+to exhibit intelligent behavior.
+
+    Despite his achievements, In 1952, he was prosecuted for homosexuality, which was considered a criminal offense
+in the UK. Turing was convicted of "gross indecency" and was called to chemical castration. The persecution took 
+a severe toll on Turing's mental and physical health, which led to his suicide in 1954 at the age of 41. In 2013,
+Turing was given a posthumous royal pardon by Queen Elizabeth II, acknowledging the injustice of his persecution. 
+
+    All together, Alan Turing's Had a remarkable impact on the field of computer science. His invention of the Turing 
+machine, the Automatic Computing Engine and his ideas on artificial intelligence placed him as a brilliant mind. 
+Despite the horrible experiences Turing faced later on in life, he serves as inspiration for the LBGTQ+ community 
+and computer scientists. His legacy lives on through the Turing Award, the highest honor in computer science.
+
+Works Cited
+“Alan Turing the Father of Modern Computer Science 1912 - 1954.” Alan Turing, The Father of Modern 
+Computer Science - Twickenham Museum, Twickenham Museum, www.twickenham-museum.org.uk/detail.php?aid=66&cid=13.
+ Accessed 28 Apr. 2024.
+
+“Alan Turing.” Encyclopædia Britannica, Encyclopædia Britannica, inc., 12 Apr. 2024,
+ www.britannica.com/biography/Alan-Turing.
+ 
+Aron, Jacob. “Alan Turing.” New Scientist, www.newscientist.com/people/alan-turing/. Accessed 28 Apr. 2024. 
